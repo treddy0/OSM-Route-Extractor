@@ -1,7 +1,6 @@
 import csv
 import simplekml
 import math
-import simplekml
 import argparse
 import sys
 import logging
